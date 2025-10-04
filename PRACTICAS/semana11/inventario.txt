@@ -16,5 +16,17 @@
         "nombre": "otra cosa",
         "cantidad": 10,
         "precio": 100.0
+    },
+    {
+        "id": "P4",
+        "nombre": "ESTUCHE",
+        "cantidad": 10,
+        "precio": 4.0
+    },
+    {
+        "id": "P6",
+        "nombre": "RELOJ",
+        "cantidad": 1,
+        "precio": 1.0
     }
 ]
